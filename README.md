@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a modified versiono of [Create React App](https://github.com/facebook/create-react-app), which includes boilerplate code for `redux data flow`.
 
 ## Available Scripts
 
