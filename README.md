@@ -66,3 +66,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Rudux Data Flow
+![Rudux Data Flow](http://gateway.ipfscloud.store:8080/ipfs/QmRm7Ap6CQEYRmzPZUwU41NcxNyyhKj6ciDBsZcHbQoy8N)
